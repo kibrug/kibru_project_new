@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title>something</title>
+	  <link rel="stylesheet" type="text/css" href="mystyle.css">
+   </head>
+   <body>
+   
+  <div class="header1">
+   <div class="header"><img a src="400.png" width="100%" height="96" alt="image"></div>
+   <div class="HAPPY REFORMATION DAY" width="100%" height="40px">HAPPY REFORMATION DAY</div>
+  <div>
+   <ul class="horizontal">
+     <li><a href="text.html5" class ="active">Martin Luther</a></li>
+	 <li><a href="text.html3">John Calvin</a></li>
+	 <li><a href="text.html">Jonatan Edward</a></li>
+	 <li><a href="https://www.gty.org"> John MacArthur</a></li>
+	 <li><a href="https://en.wikipedia.org/wiki/William_Tyndale">William Tyndale</a></li>
+	 <li><a href="https://www.desiringgod.org">John piper</a></li>
+	 <li><a href="https://www.facebook.com/Voddie Baucham">Voddie Baucham</a></li>
+	 <li><a href="https://onepassionministries.org">Steven Lawson</a></li>
+	 <li><a href="https://www.ligonier.org">RC sproul</a></li>
+	 <li><a href="https://www.spurgeon.us">Charles spurgeon</a></li>
+   </ul>
+  </div>
+ </div>
+ 
+<div class="row">
+  <div class="col-3 col-s-3 menu">
+<ul>
+     <li><a href="text.html5">Martin Luther</a></li>
+	 <li><a href="text.html3">John Calvin</a></li>
+	 <li><a href="text.html">Jonatan Edward</a></li>
+	 <li><a href="https://www.gty.org">John MacArthur</a></li>
+	 <li><a href="https://en.wikipedia.org/wiki/William_Tyndale">William Tyndale</a></li>
+	 <li><a href="https://www.desiringgod.org">John piper</a></li>
+	 <li><a href="https://www.facebook.com/VoddieBaucham">Voddie Baucham</a></li>
+	 <li><a href="https://onepassionministries.org">Steven Lawson</a></li>
+	 <li><a href="https://www.ligonier.org">RC sproul</a></li>
+	 <li><a href="https://www.spurgeon.us">Charles spurgeon</a></li>
+   </ul>
+ </div>
+
+<div class="col-6 col-s-9 main">
+<div class="videoshow">
+<iframe width="100%" height="400" src="da.mp4" type="video/mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
+  
+  
+<p>A single event on a single day changed the world.</p> <p>It was October 31,1517.
+Brother Martin, a monk and a scholar,
+had struggled for years with his 
+church, the church in Rome.</p> <p>He had been greatly disturbed by an 
+unprecedented indulgence sale.</p>
+
+<p>Reformation Day (October 31) commemorates Luther’s posting of his 
+95 Theses on the door of the Castle Church in Wittenberg, Germany 
+on October 31, 1517.<p/> <p>This act triggered the Reformation, as they 
+were immediately translated and distributed across Germany in
+a matter of weeks. </p> <p>The Protestant Reformation was the rediscovery
+of the doctrine of justification—that is, salvation by grace alone
+(Gal. 2:21) through faith alone in Christ alone.</p> <p>It was also the
+protest against the corruption within the Roman Catholic Church.</p>
+<p>The century before the Reformation was marked by widespread dismay 
+with the corruption of the leaders in the Roman Catholic Church 
+and with its false doctrines, biblical illiteracy, 
+and superstition.</p>
+<p>Monks, priests, bishops, and popes in Rome taught unbiblical doctrines
+like the selling of indulgences, the treasury of merit, purgatory, 
+and salvation through good works.</p>
+
+</p>
+<img src="ref.jpg" width="300" height="300" alt= "luther the reformer">
+<caption><strong>Martin luther nailing his 95 thesis.</strong></caption>
+<p>
+
+</p>
+
+<p>
+Martin Luther died in the early morning hours of February 18, 1546.
+
+His final words echo the seminal discoveries he made, and fought for:<strong style="color:blue">
+
+We are beggars. This is true. Beggars, indeed — because God demands 
+ 
+a righteousness we cannot produce.</strong> One, in fact, that if we could
+
+produce would nullify the grace of God and the meaning of Jesus’s sacrifice 
+
+(Galatians 2:23). Embodying devotion to the sacred Scriptures, 
+  
+Luther came to understand that we need an “alien righteousness,” 
+
+outside ourselves. We need a righteousness produced and provided for us by another.</p>
+
+<p>And this understanding came in part by means of study. Luther gave himself to God’s Book,
+
+which he later explained as the primary actor in the Reformation. 
+
+The legacy of his dying words in 1546 find their roots in this conviction 
+
+a conviction when bloomed into Ninety-Five Theses and nailed to the church
+
+door in Wittenberg on October 31, 1517, changed the world.</p>
+
+<p>John Piper says we have much to learn from Luther. Originally delivered as the biographical 
+
+message at the Bethlehem Conference for Pastors, this short book presents a sketch of Luther’s 
+
+life and distills relevant lessons for all Christians, especially pastors and leaders.</p>
+
+</div>
+
+<div class="col-3 col-s-12 aside"> <img src = "ML.JPG" width="300" height="auto" alt="HAPPY refomation day"></div>
+</div>
+<div class="footer">
+   <h6>&copy; 2021 by Kibru Abebe.   All Rights Reserved.</h6>
+</div>
+ </body>
+</html>
+ 
